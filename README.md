@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Subhanshu Bansal</h1>
-<h3 align="center">A Final Year Under Graduate Student @IIITD passionate about Application Development be it Web or App</h3>
+<h3 align="center">A Graduate Student @IIITD passionate about Application Development be it Web or App</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhanshu20135&label=Profile%20views&color=0e75b6&style=flat" alt="Subhanshu20135" /> </p>
 
